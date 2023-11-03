@@ -9,9 +9,8 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="58878806-3262-4a23-b4c9-45bb3f24adf9" name="Changes" comment="Feat: interface 생성">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Retrofit_Ex/app/src/main/java/com/nhkim/retrofit_ex/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Retrofit_Ex/app/src/main/java/com/nhkim/retrofit_ex/MainActivity.kt" afterDir="false" />
+    <list default="true" id="f02a22f8-902e-4ac7-a352-957118c00f4e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,21 +23,10 @@
       <ProjectState />
     </projectState>
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Kotlin Data Class" />
-        <option value="Kotlin Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
-  </component>
-  <component name="ProjectId" id="2XcjBH9usLO3TTVrcl8ea33vR74" />
+  <component name="ProjectId" id="2XfKQsQbK2KSi7fzv7fMnx6fn36" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -48,15 +36,13 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "cidr.known.project.marker": "true",
-    "last_opened_file_path": "D:/AndroidStudio/My/Inflearn/JetPack/Retrofit",
     "settings.editor.selected.configurable": "AndroidSdkUpdater"
   }
 }]]></component>
   <component name="RunManager">
     <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
-      <module name="Retrofit_Ex.app.main" />
+      <module name="ViewModelScope.app.main" />
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
       <option name="DEPLOY_AS_INSTANT" value="false" />
@@ -125,59 +111,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="58878806-3262-4a23-b4c9-45bb3f24adf9" name="Changes" comment="" />
-      <created>1698935124211</created>
+      <changelist id="f02a22f8-902e-4ac7-a352-957118c00f4e" name="Changes" comment="" />
+      <created>1699014680190</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1698935124211</updated>
+      <updated>1699014680190</updated>
     </task>
-    <task id="LOCAL-00001" summary="Chore: dependency, permission 추가">
-      <created>1698936036465</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1698936036465</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Feat: Retrofit 세팅">
-      <created>1698936217153</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1698936217153</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Feat: data class 생성">
-      <created>1698936294667</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1698936294667</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Feat: interface 생성">
-      <created>1698936448854</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1698936448854</updated>
-    </task>
-    <option name="localTasksCounter" value="5" />
     <servers />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Chore: dependency, permission 추가" />
-    <MESSAGE value="Feat: Retrofit 세팅" />
-    <MESSAGE value="Feat: data class 생성" />
-    <MESSAGE value="Feat: interface 생성" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feat: interface 생성" />
   </component>
 </project>
